@@ -56,18 +56,22 @@ body {
   .container {
     flex-direction: column;
   }
+
   main {
     order: 1;
     min-height: 60vh;
   }
+
   section {
     order: 2;
     min-height: 10vh;
   }
+
   aside {
     order: 3;
     min-height: 10vh;
   }
+
   * {
     font-size: 18px;
   }
