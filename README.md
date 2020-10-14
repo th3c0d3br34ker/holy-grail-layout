@@ -33,7 +33,7 @@ display: flex;
 
 This results in a new form of a container with new properties. The content can flow in any direction specified in (which can be row or column).
 
-### Flexbox Layout
+### Grid Layout
 
 This is done out by setting the `display` property to `gird`.
 
