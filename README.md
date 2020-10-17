@@ -3,6 +3,7 @@
 # The Holy Grail Layout
 
 The holy grail is a web page layout that has multiple, equal-height columns that are defined with style sheets. It is commonly desired and implemented, but for many years, the various ways in which it could be implemented with available technologies all had drawbacks. Because of this, finding an optimal implementation was likened to searching for the elusive Holy Grail.
+See the live version [here](https://th3c0d3br34ker.github.io/holy-grail-layout)
 
 ## What is the Holy Grail
 
